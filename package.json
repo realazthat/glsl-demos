@@ -1,7 +1,7 @@
 {
   "name": "glsl-demos",
   "version": "0.1.0",
-  "description": "glsl-demos is a collection of regl/webgl/glsl tests/sandbox/demos used to demonstrate a technique or problem",
+  "description": "glsl-demos is a private collection of regl/webgl/glsl tests/sandbox/demos used to demonstrate a technique or problem",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/realazthat/glsl-demos.git"
